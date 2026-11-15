@@ -1,17 +1,7 @@
 
 QuickBite is a food-delivery case study
 
-------------------------------------------------------------------------------------------------
-Business Background:
-**QuickBite is a food-delivery startup operating in 10 Indian cities across three city tiers. After
-three years of growth, the leadership team has noticed three things:
-Revenue is growing, but it seems to come from a small group of heavy users.
-Delivery times feel inconsistent, and some customers rate the service poorly.
-The customer database has gaps and obvious data-entry errors, so nobody trusts the
-numbers.
-You have joined the analytics team as a Data Analyst. The Head of Growth has given you a
-customer-level extract and asked you to clean it, understand it, and report what drives
-customer spending.**
+---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
 Problem Statement:
 "Who are our customers, how do they spend, and which customer attributes are
