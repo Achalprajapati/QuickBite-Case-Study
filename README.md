@@ -1,3 +1,6 @@
+QuickBite is a food-delivery case study
+
+------------------------------------------------------------------------------------------------
 Business Background:
 QuickBite is a food-delivery startup operating in 10 Indian cities across three city tiers. After
 three years of growth, the leadership team has noticed three things:
